@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator Program/Calculator Program.iml" filepath="$PROJECT_DIR$/Calculator Program/Calculator Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Java Basics/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBeginnerPrograms.iml" filepath="$PROJECT_DIR$/.idea/JavaBeginnerPrograms.iml" />
+    </modules>
+  </component>
+</project>
